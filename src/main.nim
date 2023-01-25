@@ -7,9 +7,9 @@ setup:
 
 loop:
     digitalWrite(LED_BUILTIN, HIGH)
-    delay(300)
+    delay(500)
     digitalWrite(LED_BUILTIN, LOW)
-    delay(300)
+    delay(500)
     Serial.print "<Arduino is ready> :: "
     Serial.print count
     Serial.print "\n"
