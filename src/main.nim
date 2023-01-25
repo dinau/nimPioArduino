@@ -1,4 +1,4 @@
-import pkg/nim-arduino/arduino
+import arduino
 
 var count:cint = 0
 setup:
