@@ -2,6 +2,7 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
 - [nimPioArduino](#nimpioarduino)
+      - [Note](#note)
   - [Using Arduino Uno/Nano Library with Platformio CLI](#using-arduino-unonano-library-with-platformio-cli)
     - [Prerequisite](#prerequisite)
     - [Usage on Winodws10](#usage-on-winodws10)
@@ -10,6 +11,11 @@
 
 # nimPioArduino
 Nim language: Arduino Uno/Nano Library test using Platformio CLI.
+
+#### Note
+
+This project is based on [https://github.com/markspanbroek/nim-arduino](https://github.com/markspanbroek/nim-arduino),  
+and has been modified at my `personal_branch` at this moment.
 
 ## Using Arduino Uno/Nano Library with Platformio CLI 
 
